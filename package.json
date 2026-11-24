@@ -1,0 +1,8 @@
+{
+  "name": "ispeak",
+  "private": true,
+  "type": "module",
+  "description": "iSpeak: converse em inglês com o professor Rafa (web, Vercel + Supabase + OpenAI)",
+  "engines": { "node": ">=20" },
+  "scripts": { "test": "node tools/test.mjs" }
+}
